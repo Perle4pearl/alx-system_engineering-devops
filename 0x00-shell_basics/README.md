@@ -1,1 +1,1 @@
-script that delete a directory in another directory
+the script that delete a directory in another one
