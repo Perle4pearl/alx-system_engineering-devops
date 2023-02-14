@@ -1,1 +1,1 @@
-script that create an alias
+script that list all local variable and functions
