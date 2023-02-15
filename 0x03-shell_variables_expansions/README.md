@@ -1,1 +1,1 @@
-script that print hello user
+script of numbers that count directories in a path
