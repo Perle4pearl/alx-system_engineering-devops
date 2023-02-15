@@ -1,1 +1,1 @@
-script that list all local variables
+script that print the result of an addition
