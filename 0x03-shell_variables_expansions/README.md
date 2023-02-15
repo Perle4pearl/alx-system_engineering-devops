@@ -1,1 +1,1 @@
-script that list environmental variables
+script that print hello user
