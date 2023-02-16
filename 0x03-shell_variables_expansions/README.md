@@ -1,1 +1,1 @@
-script that converts a number
+script that print all possible combination of two letters exept o
